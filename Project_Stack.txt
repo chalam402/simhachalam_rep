@@ -1,0 +1,15 @@
+Spring MVC
+Spring Security
+Spring Data JPA/Hibernate 5.x
+Webservices (SOAP & REST)
+Bootstrap 4/CSS 3 
+HTML5
+JQuery
+Maven
+Sybase
+JBoss /Tomcat server 
+
+Additional but not mandatory :
+
+Spring boot
+Jasper reports
